@@ -4,7 +4,7 @@ Student ID : 225671974
 Email: s225671974@deakin.edu.au
 SIT753-8.1P-Part 1 - Task 1 : GitHub Integration with Jenkins.
 
-Deakin University
+Deakin University test 
 
 Stage 1: Build – Build the code using a build automation tool to compile and package your code. You need to specify at least one build automation tool, e.g., Maven.  
 Stage 2: Unit and Integration Tests – Run unit tests to ensure the code functions as expected and run integration tests to ensure the different components of the application work together as expected. 
